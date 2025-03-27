@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-practise-stickers/static/css/main.e6c13ad2.css",
+    "main.js": "/goit-practise-stickers/static/js/main.bcfc5c4a.js",
+    "static/js/453.027ad4e5.chunk.js": "/goit-practise-stickers/static/js/453.027ad4e5.chunk.js",
+    "index.html": "/goit-practise-stickers/index.html",
+    "main.e6c13ad2.css.map": "/goit-practise-stickers/static/css/main.e6c13ad2.css.map",
+    "main.bcfc5c4a.js.map": "/goit-practise-stickers/static/js/main.bcfc5c4a.js.map",
+    "453.027ad4e5.chunk.js.map": "/goit-practise-stickers/static/js/453.027ad4e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bcfc5c4a.js"
+  ]
+}
