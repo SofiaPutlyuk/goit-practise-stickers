@@ -1,0 +1,1 @@
+# goit-practise-stickers
