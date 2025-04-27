@@ -1,6 +1,8 @@
 import { Component } from "react";
 import Choice from "./components/Choice";
 import StickerList from "./components/StickerList";
+import Rate from "./components/Rate";
+import Random from "./components/Random";
 class App extends Component {
   state ={
     selectedSticker: null
@@ -13,6 +15,8 @@ class App extends Component {
       <div>
    <StickerList onStickerSelect={this.handleStickerSelect} />
    <Choice selectedSticker={this.state.selectedSticker} />
+   <Rate />
+   <Random  onStickerSelect={this.handleStickerSelect} />
       </div>
     )
   }
